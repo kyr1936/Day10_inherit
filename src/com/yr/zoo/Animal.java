@@ -1,6 +1,8 @@
 package com.yr.zoo;
 
-public abstract class Animal {	//	Animal animal = new Animal(); 생성하지 못하게
+public abstract class Animal {	// extends Object 
+	
+	//	Animal animal = new Animal(); 생성하지 못하게
 
 	// 모든 동물의 공통적인 요소
 	
